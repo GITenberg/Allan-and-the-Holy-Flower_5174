@@ -1,0 +1,41 @@
+_repo: Allan-and-the-Holy-Flower_5174
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Haggard, H. Rider (Henry Rider)
+    aliases:
+    - Haggard, Rider
+    - Haggard, Henry Rider
+    birthdate: 1856
+    deathdate: 1925
+    gutenberg_agent_id: '365'
+    url: http://www.gutenberg.org/2009/agents/365
+    wikipedia: http://en.wikipedia.org/wiki/H._Rider_Haggard
+description: "Allan and the Holy Flower is a 1915 novel by H. Rider Haggard featuring\
+  \ Allan Quatermain. It first appeared serialised in The Windsor Magazine. The plot\
+  \ involves Quatermain going on a trek into Africa to find a mysterious flower.\n\
+  \n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Movie Books
+- Adventure
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5174'
+  wikidata: Q4731051
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quatermain, Allan (Fictitious character) -- Fiction'
+- !lcsh 'Hunting guides -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Plant collecting -- Africa -- Fiction'
+- GITenberg
+title: Allan and the Holy Flower
+url: http://www.gutenberg.org/ebooks/5174
+wikipedia:
+- https://hy.wikipedia.org/wiki/%D5%8D%D6%80%D5%A2%D5%A1%D5%A6%D5%A1%D5%B6_%D5%AE%D5%A1%D5%B2%D5%AB%D5%AF
+- https://ru.wikipedia.org/wiki/%D0%A1%D0%B2%D1%8F%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%86%D0%B2%D0%B5%D1%82%D0%BE%D0%BA
+- https://en.wikipedia.org/wiki/The_Holy_Flower
